@@ -1,19 +1,19 @@
-		
-# qa-challenge
+# Cypress Automated Testing Project
 
-Olá!
+## Descrição
 
-Este desafio consiste em avaliar seu conhecimento e habilidades em testes automatizados, portanto esperamos que você tente resolve-lo usando toda a sua capacidade e compreensão da tecnologia aplicada.
+Este projeto usa Cypress para realizar testes automatizados na página de cadastro do site [Buildbox](https://qastage.buildbox.one/18/cadastro). Os testes cobrem diversos cenários de validação de campos, incluindo a verificação de tooltips exibidos para campos inválidos.
 
-O Desafio é o seguinte:
+## Configuração do Projeto
 
-Acesse esse link https://qastage.buildbox.one/18/cadastro 
+### Pré-requisitos
 
-Desenvolva casos de teste automatizados para validar o processo de cadastro em uma Aplicação Web. Os testes devem cobrir diferentes cenários, incluindo entradas válidas e inválidas, verificação de campos obrigatórios, validação de formatos de dados, entre outros aspectos relevantes para garantir a funcionalidade da tela de cadastro.
+- Node.js (versão 12 ou superior)
+- npm (gerenciador de pacotes do Node.js)
 
-Projetos que demonstrarem uso eficiente do Cypress, bem como a implementação de comandos personalizados, serão valorizados e receberão pontos adicionais.
+### Instalação
 
-Certifique-se de que seu pull request está sendo enviado no link do formulário de submissão para a vaga.
+1. Clone o repositório:
 
-Estou ansioso para ver sua abordagem criativa e eficiente para este desafio de testes automatizados.
-Boa sorte!
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
